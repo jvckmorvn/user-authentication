@@ -1,5 +1,5 @@
 # user-authentication
-Basic app built to practice user authentication in React Native
+Basic app built to practice user authentication with React Native
 
 Screens:
 <br>
